@@ -1,0 +1,27 @@
+
+h1 {
+    border-top: solid 2px chartreuse;
+    border-bottom: solid 2px fuchsia;
+    padding: 20px 0px 0px 0px;
+    margin: 100px 50px 0px 50px;
+
+    color: rgba(255, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+
+.p2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
