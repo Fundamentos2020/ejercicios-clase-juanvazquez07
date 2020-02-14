@@ -1,0 +1,35 @@
+* {
+    border: 2px solid black;
+}
+
+img{
+    display: block;
+}
+
+a{
+    display: inline-block;
+    height: 50px;
+}
+
+li{
+    display: inline-block;
+}
+
+li:hover{
+    background-color: gold;
+}
+
+#pos_relative{
+    width: 75px;
+    position: relative;
+
+}
+
+#padre{
+    width: 75%;
+    height: 200px;
+}
+
+#hijo{
+    width: 50%;
+}
