@@ -1,0 +1,23 @@
+html{
+    font-size: 16px;
+}
+
+div{
+    font-size: 30px;
+}
+
+.ejemp_em{
+    font-size: 0.5em;
+}
+
+.ejemp_rem{
+    font-size: 1.5em;
+}
+
+.ejemp_vh{
+  font-size: 10vh;
+}
+
+.ejemp_vw{
+  font-size: 15vw;
+}
