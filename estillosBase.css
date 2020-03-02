@@ -1,0 +1,73 @@
+
+/*.border{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+    align-content: center;
+
+}
+
+.border div{
+   background-color: blue;
+   font-size: 2em;
+   padding: 0.5em;
+   margin: 0.25em;
+}*/
+
+.border {
+    border: solid 1px black;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.h{
+
+}
+
+html{
+    background-color: darkgray;
+}
+
+
+.m-1{
+    margin: 1em;
+}
+.p1{
+
+}
+
+.teal{
+    background-color: teal;
+}
+
+.back-white{
+    background-color: white;
+}
+
+.flex{
+    display: flex;
+}
+
+.text-white{
+    color: white;
+}
+
+#Foto{
+    background-image: url(https://picsum.photos/500/300);
+    height: 10em;
+    align-items: flex-end;
+}
+
+#Foto div{
+
+}
+
+.pb-1{
+    padding-bottom: 0.5em;
+}
